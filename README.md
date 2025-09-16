@@ -20,13 +20,12 @@ This repository contains various JavaScript exercises designed to help you impro
    ```
 2. Open the folder in your preferred code editor.
 3. Explore the exercises and try to solve them.
-4. Consider to change this line in index.html file according to the script you are going to use:
+4. Update the following line in your `index.html` file to reference the JavaScript file you want to use for each exercise:
+
+```html
 <script src="example.js"></script>
 
-## Contributing
-
-Contributions are welcome! Feel free to submit pull requests with new exercises or improvements.
-
-## License
-
-This project is licensed under the MIT License.
+## Contributing Contributions are welcome! Feel free to submit pull requests
+with new exercises or improvements. ## License This project is licensed under
+the MIT License.
+```
