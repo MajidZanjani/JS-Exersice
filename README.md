@@ -24,8 +24,9 @@ This repository contains various JavaScript exercises designed to help you impro
 
 ```html
 <script src="example.js"></script>
+```
 
 ## Contributing Contributions are welcome! Feel free to submit pull requests
+
 with new exercises or improvements. ## License This project is licensed under
 the MIT License.
-```
